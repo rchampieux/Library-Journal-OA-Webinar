@@ -1,8 +1,7 @@
 # Library-Journal-OA-Webinar
 Robin Champieux's and Danielle Robinson's presentation slides and notes.  
 
-## [Libraries Journal OA Webinar](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=LJWebOA170425&eventid=1400196&sessionid=1&key=D711502B208584A576A07150F31970BF&regTag=&sourcepage=register
-)
+## [Libraries Journal OA Webinar](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=LJWebOA170425&eventid=1400196&sessionid=1&key=D711502B208584A576A07150F31970BF&regTag=&sourcepage=register)
 
 ### A discussion between [Robin Champieux](https://twitter.com/rchampieux) and [Danielle Robinson](https://twitter.com/daniellecrobins)
 
