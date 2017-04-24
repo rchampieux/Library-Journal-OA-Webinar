@@ -1,7 +1,5 @@
-# Library-Journal-OA-Webinar
-Robin Champieux's and Danielle Robinson's presentation slides and notes.  
-
 ## [Libraries Journal OA Webinar](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=LJWebOA170425&eventid=1400196&sessionid=1&key=D711502B208584A576A07150F31970BF&regTag=&sourcepage=register)
+Robin Champieux's and Danielle Robinson's presentation slides and notes.  
 
 ### A discussion between [Robin Champieux](https://twitter.com/rchampieux) and [Danielle Robinson](https://twitter.com/daniellecrobins)
 
@@ -14,20 +12,21 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
     
     * **Open Science** is an umbrella term that refers to the application of open principles to scientific practice. It includes Open Access, Open Data, Open Educational Resources (OERs), Open Source, citizen science, and equity, diversity and inclusion in research. 
 
-* **D to R: When you think back to what we have built over the last three years, what were the pivotal moments from your perspective?**
+* **Danielle to Robin: When you think back to what we have built over the last three years, what were the pivotal moments from your perspective?**
 
 
-* **R to D: What made you come and what made you stick around?**
+* **Robin to Danielle: What made you come and what made you stick around?**
   - Danielle: I was in my 3rd year of a PhD program and feeling disillusioned. I saw a flyer Robin had posted for a round table event on science publishing. The event was really engaging, and I felt inspired to learn more about the open movement. After I went to that roundtable, I was at a Grad Student Organization meeting and heard about the Library sponsoring travel to OpenCon and applied. That experience galvanized my involvement in the open movement. Read more [here](https://science.mozilla.org/blog/opencon-an-unexpected-journey) on my journey to open science. 
 
-* **D to R: How have you gained traction with researchers?** 
-    * Partnerships
-        * What student groups and early career researcher groups are already working in the science equity, access space?
+* **Danielle to Robin: How have you gained traction with researchers?** 
+    * Partnerships with groups who are already working in science equity, accademic access, and science advocacy.
+        * What student groups and early career researcher groups on your campus?
         * Partner with them on events and resources
             * be willing to cede control
             * support and speak to their vision (Science Hack day)
             * be flexible and open to unusual collaborations (a long term collaborator was brought on last min by another speaker)
-            *
+            * Find them where they are (twitter, GitHub, on-campus events)
+            
     * Learning opportunities that impact researchers' success 
         * BioData Club - addressing gaps in the PhD student curriculum
             * Learned about this 2 years ago from students
