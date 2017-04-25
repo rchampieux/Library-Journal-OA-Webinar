@@ -13,6 +13,7 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
     * **Open Science** is an umbrella term that refers to the application of open principles to scientific practice and communication. It includes Open Access, Open Data, Open Educational Resources (OERs), Open Source, citizen science, and equity, diversity and inclusion in research. 
 
 * **Danielle to Robin: When you think back to what we have built over the last three years, what were the pivotal moments from your perspective?**
+ - Robin:  
 
 
 * **Robin to Danielle: What made you come and what made you stick around?**
