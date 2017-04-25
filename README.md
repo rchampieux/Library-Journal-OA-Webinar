@@ -1,16 +1,16 @@
 ## [Libraries Journal OA Webinar](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=LJWebOA170425&eventid=1400196&sessionid=1&key=D711502B208584A576A07150F31970BF&regTag=&sourcepage=register)
 Robin Champieux's and Danielle Robinson's presentation slides and notes.  
 
-### A discussion between [Robin Champieux](https://twitter.com/rchampieux) and [Danielle Robinson](https://twitter.com/daniellecrobins)
+### A discussion between collaborators [Robin Champieux](https://twitter.com/rchampieux) and [Danielle Robinson](https://twitter.com/daniellecrobins)
 
 * **Intro**
     * [OHSU](https://twitter.com/@OHSUNews)
     
-    * [Robin Champieux](https://twitter.com/rchampieux) is the Scholarly Communication Librarian at Oregon Health & Science University.  She leads efforts that contribute to the pace and impact of scholarly communication by partnering with OHSU research, teaching, and student communities on issues relating to publication, public access, data sharing, and scientific contribution.  She is a passionate advocate for open science and the success of early career researchers.
+    * [Robin Champieux](https://twitter.com/rchampieux) is the Scholarly Communication Librarian at Oregon Health & Science University.  She leads efforts that contribute to the pace and impact of research communication by partnering with OHSU research, teaching, and student communities on issues relating to publication, public access, data sharing, scientific contribution, and impact.  She is a passionate advocate for open science and the success of early career researchers.  She is a founding member of OHSU BioData Club and has collaborated on projects including Science Hack Day Portland, Open Insight PDX, Radian Data, Metrics Toolkit, and the [Scholarly Commons](https://www.force11.org/group/scholarly-commons-working-group/wp1-self-critique). 
     
     * [Danielle Robinson](https://twitter.com/daniellecrobins) is a 2016 Mozilla Fellow for Science with PhD in Neuroscience from Oregon Health and Science University. She is an experienced scientist, community builder, and technical communicator. She is passionate about applying the philosophy of open source software development to scientific research to improve efficiency and research reproducibility. Danielle received a National Science Foundation Graduate Research Fellowship and has a strong record of leadership, mentorship, and policy work. She is a founding member of Women in Science Portland and OHSU BioData Club and has collaborated on projects including Science Hack Day Portland, Open Insight PDX, Mozilla's Working Open Workshop, and Radian Data. Read more about Danielle at www.daniellecrobinson.com and find her on twitter @daniellecrobins.
     
-    * **Open Science** is an umbrella term that refers to the application of open principles to scientific practice. It includes Open Access, Open Data, Open Educational Resources (OERs), Open Source, citizen science, and equity, diversity and inclusion in research. 
+    * **Open Science** is an umbrella term that refers to the application of open principles to scientific practice and communication. It includes Open Access, Open Data, Open Educational Resources (OERs), Open Source, citizen science, and equity, diversity and inclusion in research. 
 
 * **Danielle to Robin: When you think back to what we have built over the last three years, what were the pivotal moments from your perspective?**
 
