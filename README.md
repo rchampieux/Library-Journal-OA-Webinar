@@ -28,20 +28,21 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
             * Find them where they are (twitter, GitHub, on-campus events)
             
     * Learning opportunities that impact researchers' success 
-        * BioData Club - addressing gaps in the PhD student curriculum
+        * [BioData Club](https://biodata-club.github.io/) - addressing gaps in the PhD student curriculum
             * Learned about this 2 years ago from students
             * Using skill building that can help people in their lab right now. Their motivation is to do better work, graduate faster, impress their PI.  These skills are also foundational to open science and/or executed through open science tools and platforms (e.g Github, R, etc.)
-                * BioData Club
-            * Providing professional dev opportunities, otherwise wouldn't have access to.
-                * OpenCon
-                * miniWOW 
-                    * vital project management and strategy skills students won't get mentoring on from anywhere else
-                * Impact workshops
+    
+         * Providing professional dev opportunities, otherwise wouldn't have access to.
+              * [OpenCon](http://www.opencon2017.org/) travel awards for students
+              * [miniWOW PDX](https://daniellecrobinson.github.io/mini-wow-pdx/) 
+                 * vital project management and strategy skills students won't get mentoring on from anywhere else
+              * [Impact workshops](http://www.ohsu.edu/xd/education/library/services/Impact-Challenge-Workshops.cfm)
+              
     * Making it fun 
         * Fun gets people in the door
         * Help the people who want to be champions find the energy to keep coming back.
         * Reconnecting people to why they decided to devote themselves to science in the first place.
-        * Example:  Science Hack Day
+        * Example:  [Science Hack Day](http://portland.sciencehackday.org/)
 
 
 * How do you find your people
