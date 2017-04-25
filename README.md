@@ -4,7 +4,7 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
 ### A discussion between collaborators [Robin Champieux](https://twitter.com/rchampieux) and [Danielle Robinson](https://twitter.com/daniellecrobins)
 
 * **Intro**
-    * [OHSU](https://twitter.com/@OHSUNews)
+    * [OHSU](https://twitter.com/@OHSUNews) is reseach intensive biomedical university in Portland, Oregon.  In additional to a clinical enterprise and teaching hospitals, the campus includes schools of medicine, nursing, dentistry, public health, and a college of pharmacy.  
     
     * [Robin Champieux](https://twitter.com/rchampieux) is the Scholarly Communication Librarian at Oregon Health & Science University.  She leads efforts that contribute to the pace and impact of research communication by partnering with OHSU research, teaching, and student communities on issues relating to publication, public access, data sharing, scientific contribution, and impact.  She is a passionate advocate for open science and the success of early career researchers.  She is a founding member of OHSU BioData Club and has collaborated on projects including Science Hack Day Portland, Open Insight PDX, Radian Data, Metrics Toolkit, and the [Scholarly Commons](https://www.force11.org/group/scholarly-commons-working-group/wp1-self-critique). 
     
