@@ -13,23 +13,24 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
     * **Open Science** is an umbrella term that refers to the application of open principles to scientific practice and communication. It includes Open Access, Open Data, Open Educational Resources (OERs), Open Source, citizen science, and equity, diversity and inclusion in research. 
 
 * **Danielle to Robin: When you think back to what we have built over the last three years, what were the pivotal moments from your perspective?**
- - Robin:  
+   * Robin:  A few milestones stand-out for me.  Three years ago, I worked with my colleagues Jackie Wirz and Melissa Haendel to host a roundtable forum for students and postdocs to discuss issues related to scholarly and research communication
 
 
 * **Robin to Danielle: What made you come and what made you stick around?**
   - Danielle: I was in my 3rd year of a PhD program and feeling disillusioned. I saw a flyer Robin had posted for a round table event on science publishing. The event was really engaging, and I felt inspired to learn more about the open movement. After I went to that roundtable, I was at a Grad Student Organization meeting and heard about the Library sponsoring travel to OpenCon and applied. That experience galvanized my involvement in the open movement. Read more [here](https://science.mozilla.org/blog/opencon-an-unexpected-journey) on my journey to open science. 
 
 * **Danielle to Robin: How have you gained traction with researchers?** 
-    * Partnerships with groups who are already working in science equity, accademic access, and science advocacy.
-        * What student groups and early career researcher groups on your campus?
-            * At OHSU: Women in Science Portland, Bioinformatics Discussion Group, Python Summer Club, Alliance for Visible Diversity at OHSU, OHSU Grad Student Association
-        * Partner with them on events and resources
-            * Be willing to cede control
-            * Support and speak to their vision (Science Hack day)
-            * Be flexible and open to unusual collaborations (a long term collaborator was brought on last min by another speaker)
-            * Find them where they are (twitter, GitHub, on-campus student events)
+    * We've developed partnerships with groups who are already working on issues related to equity, accademic access, continuting education, and advocacy in science. 
+        * What student groups and early career researcher groups are you working with on campus?
+            * At OHSU: Women in Science Portland, Bioinformatics Discussion Group, Python Summer Club, Alliance for Visible Diversity at OHSU, OHSU Grad Student Association, Data Jamboree
+        * We've partnered with them on events and resources.  In doing so, we've developed a few important strategies:
+            * Be willing to cede control!
+            * Support and speak to our research and student collaborators' vision (Science Hack day).
+            * Be flexible and open to unusual collaborations (one long term collaborator was brought on last min by another speaker).
+            * Find them where they are (twitter, GitHub, on-campus student events).
+            * Small pockets of funding go a long way.
             
-    * Learning opportunities that impact researchers' success 
+    * Provdide learning opportunities that impact researchers' success 
         * [BioData Club](https://biodata-club.github.io/) - addressing gaps in the PhD student curriculum
             * Learned about this 2 years ago from students
             * Using skill building that can help people in their lab right now. Their motivation is to do better work, graduate faster, impress their PI.  These skills are also foundational to open science and/or executed through open science tools and platforms (e.g Github, R, etc.)
