@@ -48,13 +48,13 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
         * Example:  [Science Hack Day](http://portland.sciencehackday.org/)
 
 
-* **How do you find your people?**
+* **Robin to Danielle:  What advice would you give for finding advocates and interested people?**
     * Who is working to make science and academia better, more inclusive, more equitable? We reached out to them. 
         * Women in Science PDX, Alliance for Visible Diversity, Women Who Code PDX, PyLadies PDX, Open Hardware, Hack Oregon, other open Source community groups outside OHSU, smaller department-specific study groups (Python Summer Club, Bioinformatics Discussion Group), OHSU Grad Student Organization, and Postdoc Office.
         * All of these groups are run by scientists, but they don't necessarily know what open science is or why they might care. 
         * Antionette's story
 
-* **How do we measure success?**
+* **Danielle to Robin:  How do we measure success?**
     * Community engagement
         * We are building a community of open science practitioners
         * We want to policies to grown from the community
