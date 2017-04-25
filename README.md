@@ -15,8 +15,7 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
 * **Danielle to Robin: When you think back to what we have built over the last three years, what were the pivotal moments from your perspective?**
    * Robin:  A couple milestones stand-out for me.  Three years ago, I worked with my colleagues Jackie Wirz and Melissa Haendel to host a roundtable forum for students and postdocs to discuss issues related to scholarly and research communication.  We invited clinical and basic science faculty on campus who are advocates for open science practices, providing students the change to have an actual coversation about the connections between open practices, personal success, the pace of discovery, and public scientific engagment and trust.  Their questions very much drove the content of the forum, and gave me a lot of insight into how to frame future programming to pique students' and early career researcher's interests.
    
-In 2015 I secured a grant from the National Library of Medicince to support Open Insight, a project I founded to catalyze student and researcher engagment with open science through hands-on learning and face-to-face interactions with leaders in the field.  That funding and the project as a whole was the impetus for many of the collaborations I've developed, including with you and the OHSU computational commutnity.  Additional the professional development opportunities we were able to provide via this project really cemented my understanding of the need and desire for such events, giving us a continuing framework for much of our advocacy and community building work on campus and beyond.  
-
+   In 2015 I secured a grant from the National Library of Medicince to support Open Insight, a project I founded to catalyze student and researcher engagment with open science through hands-on learning and face-to-face interactions with leaders in the field.  That funding and the project as a whole was the impetus for many of the collaborations I've developed, including with you and the OHSU computational commutnity.  Additional the professional development opportunities we were able to provide via this project really cemented my understanding of the need and desire for such events, giving us a continuing framework for much of our advocacy and community building work on campus and beyond.  
 
 * **Robin to Danielle: What made you come and what made you stick around?**
   - Danielle: I was in my 3rd year of a PhD program and feeling disillusioned. I saw a flyer Robin had posted for a round table event on science publishing. The event was really engaging, and I felt inspired to learn more about the open movement. After I went to that roundtable, I was at a Grad Student Organization meeting and heard about the Library sponsoring travel to OpenCon and applied. That experience galvanized my involvement in the open movement. Read more [here](https://science.mozilla.org/blog/opencon-an-unexpected-journey) on my journey to open science. 
@@ -32,9 +31,8 @@ In 2015 I secured a grant from the National Library of Medicince to support Open
             * Find them where they are (twitter, GitHub, on-campus student events).
             * Small pockets of funding go a long way.
             
-    * Provdide learning opportunities that impact researchers' success 
+    * Provide learning opportunities that impact researchers' success 
         * [BioData Club](https://biodata-club.github.io/) - addressing gaps in the PhD student curriculum
-            * Learned about this 2 years ago from students
             * Using skill building that can help people in their lab right now. Their motivation is to do better work, graduate faster, impress their PI.  These skills are also foundational to open science and/or executed through open science tools and platforms (e.g Github, R, etc.)
     
          * Providing professional dev opportunities, otherwise wouldn't have access to.
@@ -43,7 +41,7 @@ In 2015 I secured a grant from the National Library of Medicince to support Open
                  * vital project management and strategy skills students won't get mentoring on from anywhere else
               * [Impact workshops](http://www.ohsu.edu/xd/education/library/services/Impact-Challenge-Workshops.cfm)
               
-    * Making it fun 
+    * Make it fun 
         * Fun gets people in the door
         * Help the people who want to be champions find the energy to keep coming back.
         * Reconnecting people to why they decided to devote themselves to science in the first place.
