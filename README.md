@@ -21,11 +21,12 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
 * **Danielle to Robin: How have you gained traction with researchers?** 
     * Partnerships with groups who are already working in science equity, accademic access, and science advocacy.
         * What student groups and early career researcher groups on your campus?
+            * At OHSU: Women in Science Portland, Bioinformatics Discussion Group, Python Summer Club, Alliance for Visible Diversity at OHSU, OHSU Grad Student Association
         * Partner with them on events and resources
-            * be willing to cede control
-            * support and speak to their vision (Science Hack day)
-            * be flexible and open to unusual collaborations (a long term collaborator was brought on last min by another speaker)
-            * Find them where they are (twitter, GitHub, on-campus events)
+            * Be willing to cede control
+            * Support and speak to their vision (Science Hack day)
+            * Be flexible and open to unusual collaborations (a long term collaborator was brought on last min by another speaker)
+            * Find them where they are (twitter, GitHub, on-campus student events)
             
     * Learning opportunities that impact researchers' success 
         * [BioData Club](https://biodata-club.github.io/) - addressing gaps in the PhD student curriculum
@@ -47,9 +48,9 @@ Robin Champieux's and Danielle Robinson's presentation slides and notes.
 
 * How do you find your people
     * Who is working to make science and academia better, more inclusive, more equitable? We reached out to them. 
-        * Women in Science PDX, Alliance for Visible diversity, Women who Code, Open Hardware, Open Source community, Department specific study groups, Grad Students association and Postdoc Office.
-        * All scientists, but don't necessarily know what open science is or why they might care
-        * Antionette story
+        * Women in Science PDX, Alliance for Visible Diversity, Women Who Code PDX, PyLadies PDX, Open Hardware, Hack Oregon, other open Source community groups outside OHSU, smaller department-specific study groups (Python Summer Club, Bioinformatics Discussion Group), OHSU Grad Student Organization, and Postdoc Office.
+        * All of these groups are run by scientists, but they don't necessarily know what open science is or why they might care. 
+        * Antionette's story
 
 * How do we measure success?
     * Community engagement
